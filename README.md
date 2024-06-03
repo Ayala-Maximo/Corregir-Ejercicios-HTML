@@ -3,7 +3,7 @@ En este repositorio podrán descargar los archivos HTML a resolver. El objetivo 
 Aprender a corregir código HTML es una habilidad esencial para cualquier desarrollador web. Te permite crear páginas web más limpias, accesibles y eficientes.
 
 # ¿Por dónde empezar?
-  1. Identifica el problema: El primer paso es comprender el error que estás enfrentando. Puedes usar las herramientas de desarrollo de   tu navegador o un validador HTML online como el del W3C (https://validator.w3.org/).
+  1. Identifica el problema: El primer paso es comprender el error que estás enfrentando. Puedes usar las herramientas de desarrollo de   tu navegador o un validador HTML online.
 
   2. Comprende el error: Una vez que hayas identificado el error, busca información sobre él. Existen recursos como MDN Web Docs       
   (https://developer.mozilla.org/index.html) que te explican en detalle los errores comunes de HTML y cómo corregirlos.
